@@ -1,7 +1,6 @@
 # Pokédex
 ## Introduction 📖
-Project using JavaScript, HTML and CSS to show 150 original pokemóns registered using [PokeAPI](https://pokeapi.co/)
-It is a simple project to understand how an API works.
+Project using JavaScript, HTML and CSS to show 150 original pokemóns registered using [PokeAPI](https://pokeapi.co/). It is a simple project to understand how an API works.
 ### ☑️ Prerequisites
     
   Before you start, make sure you have the following tools installed on your machine:
